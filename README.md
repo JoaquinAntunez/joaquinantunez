@@ -7,7 +7,7 @@ Algo para compartir:
 
 - 🔭 Recientemente trabaje en un proyecto (App), donde usamos deep learning (AI).
   
-- 🌱 Programas que manejo: **pyhton, Data Sourcing (CSV, API, Scraping), SQLite, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, ML, DL, ML Ops**.
+- 🌱 Programas que manejo: **Pyhton, Data Sourcing (CSV, API, Scraping), SQLite, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, ML, DL, ML Ops**.
   
 - 👯 Estoy en busca de encontrar trabajo full-time como Data Scientist.
   
