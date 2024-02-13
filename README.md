@@ -1,7 +1,7 @@
 ### Hola y bienvenidos! 👋
 
-Soy un apacionado por la programacion, desde chico amante por la tecnologia.
-Actualmente me concidero programador en ciencias de datos (**Data Scienctis**) , terminando los estudios en **Le Wagon Bootcamp**. 
+Soy un apasionado por la programación, desde chico amante por la tecnología.
+Actualmente me considero programador en ciencias de datos (**Data Scienctis**) , terminando los estudios en **Le Wagon Bootcamp**. 
 
 Algo para compartir:
 
@@ -11,6 +11,6 @@ Algo para compartir:
   
 - 👯 Estoy en busca de encontrar trabajo full-time como Data Scientist.
   
-- 💬 Preguntame sobre siencias de datos ...
+- 💬 Pregúntame sobre siencias de datos ...
 
 
