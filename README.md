@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola y bienvenidos! 👋
 
-<!--
-**JoaquinAntunez/joaquinantunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apacionado por la programacion, desde chico amante por la tecnologia.
+Actualmente me concidero programador en ciencias de datos (**Data Scienctis**) , terminando los estudios en **Le Wagon Bootcamp**. 
 
-Here are some ideas to get you started:
+Algo para compartir:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Recientemente trabaje en un proyecto (App), donde usamos deep learning (AI).
+- 
+- 🌱 Programas que manejo: **pyhton, Data Sourcing (CSV, API, Scraping), SQLite, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, ML, DL, ML Ops**.
+- 
+- 👯 Estoy en busca de encontrar trabajo full-time como Data Scientist.
+- 
+- 💬 Preguntame sobre siencias de datos ...
+
+
