@@ -1,7 +1,7 @@
 ### Hola y bienvenidos! 👋
 
 Soy un apasionado por la programación, desde chico amante por la tecnología.
-Actualmente me considero programador en ciencias de datos (**Data Scienctis**) ,luego de haber terminando los estudios en **Le Wagon Bootcamp**. 
+Actualmente me considero programador en ciencias de datos (**Data Scienctis**), luego de haber terminando los estudios en **Le Wagon Bootcamp**. 
 
 Algo para compartir:
 
