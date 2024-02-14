@@ -11,6 +11,6 @@ Algo para compartir:
   
 - 👯 Estoy en busca de encontrar trabajo full-time como Data Scientist.
   
-- 💬 Pregúntame sobre siencias de datos ...
+- 💬 Pregúntame sobre ciencias de datos ...
 
 
