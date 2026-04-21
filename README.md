@@ -1,4 +1,4 @@
-# 👋 Hola, soy Joaquín Antúnez
+#  Hola, soy Joaquín Antúnez
 
 Soy Data Scientist y profesional en tecnología con experiencia en desarrollo de productos y gestión de clientes en entornos SaaS.
 
@@ -6,12 +6,12 @@ Actualmente soy fundador y Director Ejecutivo de **Tecnología Inmobiliaria**, d
 
 ---
 
-## 💼 Experiencia
+##  Experiencia
 
-- 🧠 **Data Scientist & Customer Success** en FollowUp  
+-  **Data Scientist & Customer Success** en FollowUp  
   Trabajé en análisis de datos, implementación de soluciones tecnológicas y acompañamiento a clientes para maximizar el valor del producto.
 
-- 🚀 **Founder & CEO** en Tecnología Inmobiliaria  
+-  **Founder & CEO** en Tecnología Inmobiliaria  
   Desarrollo una plataforma SaaS enfocada en:
   - Análisis de mercado inmobiliario
   - Visualización de datos y dashboards interactivos
@@ -20,7 +20,7 @@ Actualmente soy fundador y Director Ejecutivo de **Tecnología Inmobiliaria**, d
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - **Lenguajes & Data:** Python, SQL  
 - **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
@@ -31,7 +31,7 @@ Actualmente soy fundador y Director Ejecutivo de **Tecnología Inmobiliaria**, d
 
 ---
 
-## 📊 Enfoque actual
+##  Enfoque actual
 
 Estoy enfocado en construir tecnología que transforme la industria inmobiliaria mediante:
 
